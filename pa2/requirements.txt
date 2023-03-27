@@ -1,0 +1,4 @@
+tensorflow-gpu
+tensorflow-addons
+numpy
+matplotlib
